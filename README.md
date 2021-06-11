@@ -1,1 +1,4 @@
-# Coast_Analytics
+# Coast analytics
+
+Проект создан для изучения работы с базами данных. 
+
